@@ -34,6 +34,15 @@ namespace lab01
                         roots.Add(-Math.Sqrt(tempRoot));
                     }
                 }
+                else
+                {
+                    tempRoot = (-b / (2 * a));
+                    if (tempRoot > 0)
+                    {
+                        roots.Add(Math.Sqrt(tempRoot));
+                        roots.Add(-Math.Sqrt(tempRoot));
+                    }
+                }
             }
             else
             {
@@ -114,7 +123,7 @@ namespace lab01
 
         static void PrintCreator()
         {
-            Console.WriteLine("Студент: Корчевский Александр            Группа: ИУ5-32Б\n");  
+            Console.WriteLine("Студент: Корчевский Александр            Группа: ИУ5-32Б");  
         }
 
         static void Main(string[] args)
@@ -137,22 +146,22 @@ namespace lab01
                 #region Ввод с консоли
                 while (a == 0)
                 {
-                    Console.WriteLine("Введите коэффициент А\n");
+                    Console.WriteLine("\nВведите коэффициент А");
                     double.TryParse(Console.ReadLine(), out a);
                 }
 
-                Console.WriteLine("Введите коэффициент B\n");
+                Console.WriteLine("\nВведите коэффициент B");
 
                 while (!double.TryParse(Console.ReadLine(), out b))
                 {
-                    Console.WriteLine("Введите коэффициент B\n");
+                    Console.WriteLine("\nВведите коэффициент B");
                 }
 
-                Console.WriteLine("Введите коэффициент C\n");
+                Console.WriteLine("\nВведите коэффициент C");
 
                 while (!double.TryParse(Console.ReadLine(), out c))
                 {
-                    Console.WriteLine("Введите коэффициент C\n");
+                    Console.WriteLine("\nВведите коэффициент C");
                 }
                 #endregion
             }
