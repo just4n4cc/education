@@ -1,0 +1,14 @@
+C:\Users\Xiaomi\source\repos\lab\3 sem\lab01\lab01\bin\Debug\lab01.exe.config
+C:\Users\Xiaomi\source\repos\lab\3 sem\lab01\lab01\bin\Debug\lab01.exe
+C:\Users\Xiaomi\source\repos\lab\3 sem\lab01\lab01\bin\Debug\lab01.pdb
+C:\Users\Xiaomi\source\repos\lab\3 sem\lab01\lab01\obj\Debug\lab01.csprojAssemblyReference.cache
+C:\Users\Xiaomi\source\repos\lab\3 sem\lab01\lab01\obj\Debug\lab01.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\source\repos\lab\3 sem\lab01\lab01\obj\Debug\lab01.exe
+C:\Users\Xiaomi\source\repos\lab\3 sem\lab01\lab01\obj\Debug\lab01.pdb
+C:\Users\Xiaomi\source\repos\lab\3sem\lab01\lab01\bin\Debug\lab01.exe.config
+C:\Users\Xiaomi\source\repos\lab\3sem\lab01\lab01\bin\Debug\lab01.exe
+C:\Users\Xiaomi\source\repos\lab\3sem\lab01\lab01\bin\Debug\lab01.pdb
+C:\Users\Xiaomi\source\repos\lab\3sem\lab01\lab01\obj\Debug\lab01.csprojAssemblyReference.cache
+C:\Users\Xiaomi\source\repos\lab\3sem\lab01\lab01\obj\Debug\lab01.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\source\repos\lab\3sem\lab01\lab01\obj\Debug\lab01.exe
+C:\Users\Xiaomi\source\repos\lab\3sem\lab01\lab01\obj\Debug\lab01.pdb
