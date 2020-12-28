@@ -1,0 +1,45 @@
+﻿<Window x:Class="lab05.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab05"
+        xmlns:fa5="http://schemas.fontawesome.com/icons/"   
+        mc:Ignorable="d"
+        Title="Поиск в файле" Height="500" Width="470">
+    <Grid Background="LightCoral">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="170"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <Button Width="100" Click="ReadButton_Click" Background="MediumAquamarine" Height="20" Margin="10" VerticalAlignment="Center" HorizontalAlignment="Left">Выбор файла</Button>
+        <StackPanel VerticalAlignment="Center" Orientation="Horizontal" Grid.Column="1">
+            <Label VerticalAlignment="Center" Margin="5,0,10,0">Время чтения из файла:</Label>
+            <TextBox Name="ReadTimeTextBox" IsReadOnly="True" Width="110" Height="20"></TextBox>
+        </StackPanel>
+        <Label Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="5">Слово для поиска:</Label>
+        <StackPanel Orientation="Horizontal" VerticalAlignment="Center" Grid.Row="1" Grid.Column="1">
+            <TextBox Name="SearchWordTextBox"  HorizontalAlignment="Left" Width="110" Height="20" VerticalAlignment="Center" Margin="10"></TextBox>
+            <Button Name="SearchButton" Click="SearchWordButton_Click" Background="MediumAquamarine" Height="20" Width="60" VerticalAlignment="Center">
+                <fa5:ImageAwesome Height="15" Icon="Solid_Search"/>
+            </Button>
+        </StackPanel>
+        <Label Grid.Row="2" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="5">Максимальное расстояние:</Label>
+        <TextBox Name="MaxDistanceTextBox" Width="110" Height="20" Grid.Row="2" Grid.Column="1" HorizontalAlignment="Left" Margin="10"></TextBox>
+        <Label Grid.Row="3" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="5">Время поиска:</Label>
+        <TextBox Name="SearchTimeTextBox" IsReadOnly="True" Width="110" Height="20" Grid.Row="3" Grid.Column="1" HorizontalAlignment="Left" Margin="10"></TextBox>
+        <StackPanel HorizontalAlignment="Right" VerticalAlignment="Center" Margin="10" Grid.Row="2" Grid.Column="1" Grid.RowSpan="2">
+            <Label FontSize="12">Показывать расстояние?</Label>
+            <RadioButton x:Name="YesRadioButton" IsChecked="True" Margin="5">Да</RadioButton>
+            <RadioButton Margin="5">Нет</RadioButton>
+        </StackPanel>
+        <ListBox Name="WordList" Grid.ColumnSpan="2" Grid.Row="4" Margin="10"></ListBox>
+    </Grid>
+</Window>

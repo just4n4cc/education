@@ -1,0 +1,7 @@
+C:\Users\Xiaomi\source\repos\lab\3 sem\lab06.Reflection\lab06.Reflection\bin\Debug\lab06.Reflection.exe.config
+C:\Users\Xiaomi\source\repos\lab\3 sem\lab06.Reflection\lab06.Reflection\bin\Debug\lab06.Reflection.exe
+C:\Users\Xiaomi\source\repos\lab\3 sem\lab06.Reflection\lab06.Reflection\bin\Debug\lab06.Reflection.pdb
+C:\Users\Xiaomi\source\repos\lab\3 sem\lab06.Reflection\lab06.Reflection\obj\Debug\lab06.Reflection.csprojAssemblyReference.cache
+C:\Users\Xiaomi\source\repos\lab\3 sem\lab06.Reflection\lab06.Reflection\obj\Debug\lab06.Reflection.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\source\repos\lab\3 sem\lab06.Reflection\lab06.Reflection\obj\Debug\lab06.Reflection.exe
+C:\Users\Xiaomi\source\repos\lab\3 sem\lab06.Reflection\lab06.Reflection\obj\Debug\lab06.Reflection.pdb

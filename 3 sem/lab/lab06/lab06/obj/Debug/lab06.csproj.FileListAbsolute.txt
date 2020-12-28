@@ -1,0 +1,7 @@
+C:\Users\Xiaomi\source\repos\lab\3 sem\lab06\lab06\bin\Debug\lab06.exe.config
+C:\Users\Xiaomi\source\repos\lab\3 sem\lab06\lab06\bin\Debug\lab06.exe
+C:\Users\Xiaomi\source\repos\lab\3 sem\lab06\lab06\bin\Debug\lab06.pdb
+C:\Users\Xiaomi\source\repos\lab\3 sem\lab06\lab06\obj\Debug\lab06.csprojAssemblyReference.cache
+C:\Users\Xiaomi\source\repos\lab\3 sem\lab06\lab06\obj\Debug\lab06.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\source\repos\lab\3 sem\lab06\lab06\obj\Debug\lab06.exe
+C:\Users\Xiaomi\source\repos\lab\3 sem\lab06\lab06\obj\Debug\lab06.pdb
