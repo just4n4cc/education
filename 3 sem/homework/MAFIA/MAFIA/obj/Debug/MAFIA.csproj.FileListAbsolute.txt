@@ -1,0 +1,46 @@
+C:\Users\Xiaomi\source\repos\MAFIA\MAFIA\bin\Debug\MAFIA.exe.config
+C:\Users\Xiaomi\source\repos\MAFIA\MAFIA\bin\Debug\MAFIA.exe
+C:\Users\Xiaomi\source\repos\MAFIA\MAFIA\bin\Debug\MAFIA.pdb
+C:\Users\Xiaomi\source\repos\MAFIA\MAFIA\obj\Debug\App.g.cs
+C:\Users\Xiaomi\source\repos\MAFIA\MAFIA\obj\Debug\MAFIA_MarkupCompile.cache
+C:\Users\Xiaomi\source\repos\MAFIA\MAFIA\obj\Debug\MAFIA_MarkupCompile.lref
+C:\Users\Xiaomi\source\repos\MAFIA\MAFIA\obj\Debug\MAFIA.g.resources
+C:\Users\Xiaomi\source\repos\MAFIA\MAFIA\obj\Debug\MAFIA.Properties.Resources.resources
+C:\Users\Xiaomi\source\repos\MAFIA\MAFIA\obj\Debug\MAFIA.csproj.GenerateResource.cache
+C:\Users\Xiaomi\source\repos\MAFIA\MAFIA\obj\Debug\MAFIA.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\source\repos\MAFIA\MAFIA\obj\Debug\MAFIA.exe
+C:\Users\Xiaomi\source\repos\MAFIA\MAFIA\obj\Debug\MAFIA.pdb
+C:\Users\Xiaomi\source\repos\MAFIA\MAFIA\obj\Debug\MAFIA.csprojAssemblyReference.cache
+C:\Users\Xiaomi\source\repos\MAFIA\MAFIA\obj\Debug\Window1.g.cs
+C:\Users\Xiaomi\source\repos\MAFIA\MAFIA\obj\Debug\Window1.baml
+C:\Users\Xiaomi\source\repos\MAFIA\MAFIA\obj\Debug\Views\Windows\MainWindow.g.cs
+C:\Users\Xiaomi\source\repos\MAFIA\MAFIA\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Xiaomi\source\repos\MAFIA\MAFIA\obj\Debug\Views\Windows\MainWindow.baml
+C:\Users\Xiaomi\source\repos\MAFIA\MAFIA\bin\Debug\FontAwesome5.dll
+C:\Users\Xiaomi\source\repos\MAFIA\MAFIA\bin\Debug\FontAwesome5.Net.dll
+C:\Users\Xiaomi\source\repos\MAFIA\MAFIA\bin\Debug\FontAwesome5.xml
+C:\Users\Xiaomi\source\repos\MAFIA\MAFIA\bin\Debug\FontAwesome5.Net.xml
+C:\Users\Xiaomi\source\repos\MAFIA\MAFIA\obj\Debug\MAFIA.csproj.CopyComplete
+C:\Users\Xiaomi\source\repos\GitHub\education\3 sem\homework\MAFIA\MAFIA\bin\Debug\MAFIA.exe.config
+C:\Users\Xiaomi\source\repos\GitHub\education\3 sem\homework\MAFIA\MAFIA\bin\Debug\MAFIA.exe
+C:\Users\Xiaomi\source\repos\GitHub\education\3 sem\homework\MAFIA\MAFIA\bin\Debug\MAFIA.pdb
+C:\Users\Xiaomi\source\repos\GitHub\education\3 sem\homework\MAFIA\MAFIA\bin\Debug\FontAwesome5.dll
+C:\Users\Xiaomi\source\repos\GitHub\education\3 sem\homework\MAFIA\MAFIA\bin\Debug\FontAwesome5.Net.dll
+C:\Users\Xiaomi\source\repos\GitHub\education\3 sem\homework\MAFIA\MAFIA\bin\Debug\FontAwesome5.xml
+C:\Users\Xiaomi\source\repos\GitHub\education\3 sem\homework\MAFIA\MAFIA\bin\Debug\FontAwesome5.Net.xml
+C:\Users\Xiaomi\source\repos\GitHub\education\3 sem\homework\MAFIA\MAFIA\obj\Debug\MAFIA.csprojAssemblyReference.cache
+C:\Users\Xiaomi\source\repos\GitHub\education\3 sem\homework\MAFIA\MAFIA\obj\Debug\Views\Windows\MainWindow.g.cs
+C:\Users\Xiaomi\source\repos\GitHub\education\3 sem\homework\MAFIA\MAFIA\obj\Debug\Window1.g.cs
+C:\Users\Xiaomi\source\repos\GitHub\education\3 sem\homework\MAFIA\MAFIA\obj\Debug\App.g.cs
+C:\Users\Xiaomi\source\repos\GitHub\education\3 sem\homework\MAFIA\MAFIA\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Xiaomi\source\repos\GitHub\education\3 sem\homework\MAFIA\MAFIA\obj\Debug\MAFIA_MarkupCompile.cache
+C:\Users\Xiaomi\source\repos\GitHub\education\3 sem\homework\MAFIA\MAFIA\obj\Debug\MAFIA_MarkupCompile.lref
+C:\Users\Xiaomi\source\repos\GitHub\education\3 sem\homework\MAFIA\MAFIA\obj\Debug\Views\Windows\MainWindow.baml
+C:\Users\Xiaomi\source\repos\GitHub\education\3 sem\homework\MAFIA\MAFIA\obj\Debug\Window1.baml
+C:\Users\Xiaomi\source\repos\GitHub\education\3 sem\homework\MAFIA\MAFIA\obj\Debug\MAFIA.g.resources
+C:\Users\Xiaomi\source\repos\GitHub\education\3 sem\homework\MAFIA\MAFIA\obj\Debug\MAFIA.Properties.Resources.resources
+C:\Users\Xiaomi\source\repos\GitHub\education\3 sem\homework\MAFIA\MAFIA\obj\Debug\MAFIA.csproj.GenerateResource.cache
+C:\Users\Xiaomi\source\repos\GitHub\education\3 sem\homework\MAFIA\MAFIA\obj\Debug\MAFIA.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\source\repos\GitHub\education\3 sem\homework\MAFIA\MAFIA\obj\Debug\MAFIA.csproj.CopyComplete
+C:\Users\Xiaomi\source\repos\GitHub\education\3 sem\homework\MAFIA\MAFIA\obj\Debug\MAFIA.exe
+C:\Users\Xiaomi\source\repos\GitHub\education\3 sem\homework\MAFIA\MAFIA\obj\Debug\MAFIA.pdb
